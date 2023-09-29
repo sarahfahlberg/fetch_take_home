@@ -12,6 +12,7 @@ conda env create -f env.yml
 conda activate health-check
 ```
 Ensure that `(health-check)` appears before your line in terminal
+
 3. Run html_health_check.py with the input argument. 
 
 Example:
